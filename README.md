@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+---
+
+## 🏆 Google Cloud Skills Boost Achievements
+## 🏆 Google Cloud Skills Boost Arcade Achievements
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/c60d641c-3ba5-4d8d-904e-859fda3bc59f">
 <!--
 **SwornoDas/SwornoDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
