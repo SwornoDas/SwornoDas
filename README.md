@@ -35,7 +35,7 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
-![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/Nginx/nginx1.svg)
+![Nginx](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NGINX/nginx3.svg)
 ![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg)
 
 
