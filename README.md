@@ -22,6 +22,10 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+
 <br><br>
 
 ### ⚡ Tools and Technologies
@@ -31,6 +35,9 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
+![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/Nginx/nginx1.svg)
+![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg)
+
 
 <br>
 
