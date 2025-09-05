@@ -5,17 +5,18 @@
 # Hi! I'm Sworno Das  
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **Beginner Frontend Developer, Aspiring BCA Student at TMSL ’28 🎓 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
 
+![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
-
-![Sworno Stats](https://github-readme-stats.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true)  
-<br><br>
-![Sworno Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
 
 ---
 
 ### 🚀 What I Know
 
-**Languages**
+### ⚡ Languages
 
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
