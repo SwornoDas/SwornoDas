@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
-</p>
+<img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
 
 <div align="center">
 
@@ -41,7 +39,3 @@
 
 ---
 </div>
-<br>
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://i.postimg.cc/s2FrgXtg/footer.gif)"/>
-</p>
