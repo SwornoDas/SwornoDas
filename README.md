@@ -52,8 +52,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=swornodas&color=blue)
-![](https://komarev.com/ghpvc/?username=swornodas&color=blue&style=for-the-badge)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 <picture> 
