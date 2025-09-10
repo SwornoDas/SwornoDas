@@ -9,12 +9,12 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" />
 </p>
 
 ---
 
-### 🚀 What I Know
+## 🚀 What I Know
 
 ### ⚡ Languages
 
@@ -42,18 +42,27 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 <br><br>
 
+| Streak Stats |✍️ Random Dev Quote |
+|--------------|--------|
+| ![](https://nirzak-streak-stats.vercel.app/?user=swornodas&theme=radical&hide_border=false) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
-[![](https://visitcount.itsvg.in/api?id=utkarsh-48&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![](https://komarev.com/ghpvc/?username=swornodas&color=blue)
+![](https://komarev.com/ghpvc/?username=swornodas&color=blue&style=for-the-badge)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake.svg" />
 </picture>
+
 
 ---
 </div>
