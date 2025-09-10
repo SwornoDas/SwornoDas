@@ -54,15 +54,13 @@
 ![](https://komarev.com/ghpvc/?username=swornodas&color=blue)
 ![](https://komarev.com/ghpvc/?username=swornodas&color=blue&style=for-the-badge)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/swornodas/swornodas/output/github-snake.svg" />
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake.svg" /> 
+  <img alt="github-snake" src="https://github.com/utkarsh-48/utkarsh-48/blob/output/github-snake.svg" /> 
 </picture>
-
 
 ---
 </div>
