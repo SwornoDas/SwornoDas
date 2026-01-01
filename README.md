@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi! I'm Sworno Das  
+# Hi there! I'm Sworno Das  
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **Beginner Frontend Developer, Aspiring BCA Student at TMSL ’28 🎓 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
 
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
