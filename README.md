@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hi there! I'm Sworno Das  
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **Full Stack Developer, BCA Student at TMSL ’28 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
+<img src="" height="35" style="vertical-align: middle;" /> **Full Stack Developer, BCA Student at TMSL ’28 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
 
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
@@ -15,6 +15,8 @@
 ---
 
 ## 🚀 What I Know
+
+<div align="left">
 
 ### ⚡ Languages
 
@@ -41,6 +43,7 @@
 <!-- ![Nginx](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NGINX/nginx.svg) -->
 ![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg)
 
+</div>
 
 <br>
 
