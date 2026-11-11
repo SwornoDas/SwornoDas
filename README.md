@@ -24,6 +24,8 @@
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg)
 ![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
 
