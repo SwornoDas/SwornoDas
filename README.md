@@ -3,13 +3,13 @@
 <div align="center">
 
 # Hi there! I'm Sworno Das  
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **Beginner Frontend Developer, Aspiring BCA Student at TMSL ’28 🎓 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" /> **Full Stack Developer, BCA Student at TMSL ’28 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
 
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" alt="Sworno Das's GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" alt="Sworno Das's most used languages" />
 </p>
 
 ---
@@ -47,9 +47,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 <br><br>
 
-| Streak Stats |✍️ Random Dev Quote |
-|--------------|--------|
-| <img src="https://streak-stats.demolab.com?user=swornodas&theme=radical&hide_border=false" alt="GitHub Streak Stats" /> | <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> |
+### 🔥 GitHub Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=swornodas&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 
 
