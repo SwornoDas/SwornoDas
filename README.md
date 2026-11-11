@@ -3,8 +3,9 @@
 <div align="center">
 
 # Hi there! I'm Sworno Das  
-<img src="" height="35" style="vertical-align: middle;" /> **Full Stack Developer, BCA Student at TMSL ’28 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
-
+<!-- <img src="" height="35" style="vertical-align: middle;" /> -->
+**Full Stack Developer, BCA Student at TMSL ’28 & Tech Enthusiast** <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" style="vertical-align: middle;" />
+ 
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
 <p align="center">
