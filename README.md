@@ -14,11 +14,11 @@
 
 ---
 
-## 🚀 What I Know
+## What I Know
 
 <div align="left">
 
-### ⚡ Languages
+### Languages
 
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
@@ -33,15 +33,26 @@
 
 <br><br>
 
-### ⚡ Tools and Technologies
+### Tools and Technologies
 
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
 ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
-<!-- ![Nginx](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NGINX/nginx.svg) -->
 ![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg)
+
+<br><br>
+
+### Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 </div>
 
@@ -50,18 +61,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 <br><br>
 
-### 🔥 GitHub Streak Stats
+<h3 align="left">GitHub Streak Stats</h3>
 
 <img src="https://streak-stats.demolab.com?user=swornodas&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
-### ✍️ Random Dev Quote
+<h3 align="left">Random Devaloper Quote</h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 
 
 ![](https://komarev.com/ghpvc/?username=swornodas&color=blue)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+![Followers](https://img.shields.io/github/followers/SwornoDas?label=Followers&style=social)
 
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SwornoDas/SwornoDas/blob/output/github-snake-dark.svg" /> 
