@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
+<img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" alt="Pixel art developer" width="100%">
 
 <div align="center">
 
