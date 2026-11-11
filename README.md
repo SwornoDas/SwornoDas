@@ -38,7 +38,7 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
-![Nginx](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NGINX/nginx3.svg)
+<!-- ![Nginx](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/NGINX/nginx.svg) -->
 ![Apache](https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg)
 
 
@@ -49,7 +49,7 @@
 
 | Streak Stats |✍️ Random Dev Quote |
 |--------------|--------|
-| ![](https://nirzak-streak-stats.vercel.app/?user=swornodas&theme=radical&hide_border=false) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+| <img src="https://streak-stats.demolab.com?user=swornodas&theme=radical&hide_border=false" alt="GitHub Streak Stats" /> | <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> |
 
 
 
