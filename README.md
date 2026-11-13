@@ -9,8 +9,8 @@
 ![](https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif)
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=swornodas&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" alt="Sworno Das's GitHub statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=swornodas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" alt="Sworno Das's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swornodas&theme=radical" width="43%" alt="Sworno Das's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swornodas&theme=radical&exclude=html,css" width="43%" alt="Sworno Das's most used languages" />
 </p>
 
 ---
